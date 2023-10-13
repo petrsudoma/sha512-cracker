@@ -1,7 +1,8 @@
 # SHA-512 Hash cracker
 
 Python script to crack SHA-512 hash using password wordlist.
-You can use common.txt wordlist in the repository which _100k-most-used-passwords-NCSC.txt from [SecLists](https://github.com/danielmiessler/SecLists)_
+
+You can use common.txt wordlist in the repository which is _100k-most-used-passwords-NCSC.txt from [SecLists](https://github.com/danielmiessler/SecLists)_
 
 ## Usage
 
